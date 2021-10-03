@@ -1,3 +1,5 @@
+/*compareFunction*/
+
 function compare(pass1, pass2) {
   pass1 = inptPass1.value
   pass2 = inptPass2.value
